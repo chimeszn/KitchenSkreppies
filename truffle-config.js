@@ -16,7 +16,7 @@ module.exports = {
  
   networks: {
     main: {
-      provider: () => new HDWalletProvider(privateKey, `https://mainnet.infura.io/v3/${infura_api_key}`),
+      provider: () => new HDWalletProvider(privateKey, `https://mainnet.infura.io/v3/ba894f758c334f51a321229cadcb0e4e`),
       network_id: 1, //main's id
       gas: 30000000, //gas limit
       gasPrice: 10000000000,
