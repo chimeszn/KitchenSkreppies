@@ -2674,7 +2674,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.14",
-  "updatedAt": "2023-06-27T12:51:37.850Z",
+  "updatedAt": "2023-06-28T00:46:43.064Z",
   "devdoc": {
     "details": "Interface of ERC721A.",
     "events": {
